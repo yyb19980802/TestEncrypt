@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/jna-3.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/jpbc-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/jpbc-benchmark-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/jpbc-crypto-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/jpbc-pbc-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/jpbc-plaf-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/test/jpbc-benchmark-1.2.1-tests.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/test/jpbc-test-1.2.1-tests.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/sources/jpbc-api-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/sources/jpbc-crypto-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/sources/jpbc-pbc-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/jpbc 1.2.1/jars/sources/jpbc-plaf-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/Bswcpabe.jar"/>
+	<classpathentry kind="lib" path="F:/加密项目/lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
